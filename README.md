@@ -27,7 +27,7 @@ Type in the sentence: py -m pip install -U pygame==1.9.6 --user , and press ente
 Another method to install pygame is to install Python from Microsoft Store or Apple Store and then run the
 "Command Prompt" or "CMD" program on your computer. Now type the same sentence: py -m pip install -U pygame==1.9.6 --user in the terminal and
 press enter.
-2. If pygame is successfully installed, open the setgame.py file, located in the same folder as this .txt file, in Spyder.
+2. If pygame is successfully installed, open the setgamecomments.py file, located in the same folder as this .txt file, in Spyder.
 3. Then press "F5" or the green arrow at the top of the screen and the game will start. If you get an error called 
 "No module named 'pygame'", pygame was not installed successfully. So go back to step 1. 
 4. To start the game, click anywhere on the screen. The game has now started. 
